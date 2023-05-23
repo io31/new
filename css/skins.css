@@ -627,7 +627,7 @@ body {
 .page-box .title1 div {
   display: inline-block;
   text-align: left;
-  font-size: 1.5rem
+  font-size: 1.2rem
 }
 
 .page-box .title1 div aside {
@@ -3203,4 +3203,13 @@ body {
   bottom: 1rem;
   text-align: center;
   position: absolute;
+}
+.copyright2 {
+  width: 100%;
+  height: 1rem;
+  font-size: 5px;
+  bottom: 1rem;
+  text-align: center;
+  position: absolute;
+  margin-bottom: 50px;
 }
